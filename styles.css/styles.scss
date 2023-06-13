@@ -1,0 +1,76 @@
+h2{
+    color:yellowgreen;
+}
+nav{ background:#78c9f8 ;
+    color: rgb(57, 4, 106);
+    padding: 15px;
+}
+#unico{
+    background-color: rgb(63, 166, 166);
+    padding: 20px;
+}
+.padre{
+    display: flex;
+}
+ .columna{
+    background: #E5BEEC;
+    color:#191825;
+    padding: 20px;
+    width: 25%;
+    margin: 10px;
+ }
+ .nosotrosColumna{
+    background: rgb(41, 136, 128);
+    padding: 15px;
+    margin: 10px;
+ }
+ .serviciosColumna{
+    background: rgb(232, 135, 155);
+    color: #F3CCFF;
+    padding: 15px;
+    margin: 10px;
+ }
+ .contactosColumna{
+    background: #F3CCFF;
+    padding: 15px;
+    margin: 10px;
+ }
+ .NosotrosServicios{
+    background-color: antiquewhite;
+    margin: 10px;
+    width: 20%; ;
+ }
+ 
+ /* boton de artesanias */
+ button{
+    background:#3d0270f8 ;
+    color: #ceaaf2e0;
+    margin: 0px 100px;
+ }
+ button:hover{
+    background: #3F979B;
+    color: black;
+ }
+ button:active{
+    background:#40bce9;
+    color: rgb(23, 23, 22) ;
+ }
+
+/* barra de navegacion */
+.nav-enlace{
+    display: inline-block;
+    background: salmon;
+    color: white; 
+    padding: 10px 30px ;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    background: rosybrown;   
+}
+nav{
+    background: rebeccapurple;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+} 
+/* fin de barra de navegacion */
